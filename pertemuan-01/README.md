@@ -20,6 +20,10 @@
 - Website: https://www.usu.ac.id/
 - Informasi lain: Memiliki singkatan USU
 
+- ### Bukti Eksplorasi Wikidata
+
+![Wikidata Universitas Sumatera Utara](wikidata-usu.png)
+
 ## 2. Entitas, Atribut, dan Relasi
 
 | Informasi | Kategori | Alasan |
