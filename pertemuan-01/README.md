@@ -42,7 +42,9 @@
 
 ## 4. Knowledge Graph Mini
 
-Tema: Universitas Sumatera Utara
+Tema: 
+
+Universitas Sumatera Utara
 
 Hubungan antarentitas:
 
