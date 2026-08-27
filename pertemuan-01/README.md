@@ -89,8 +89,4 @@ Jawaban: Hubungan antarentitas membuat informasi lebih terstruktur sehingga kete
 ### 5. Menurut Anda, bagaimana Knowledge Graph dapat membantu sistem pencarian atau AI dalam memahami informasi?
 Jawaban: Knowledge Graph membantu sistem pencarian dan AI memahami hubungan serta konteks antarentitas sehingga informasi yang diberikan dapat menjadi lebih relevan dan terstruktur.
 
-## 6. Kesimpulan
 
-Pada pertemuan ini dilakukan pengenalan konsep dasar Web Semantik melalui eksplorasi Wikidata, identifikasi entitas, atribut, dan relasi, penyusunan triple, pembuatan Knowledge Graph sederhana, serta eksplorasi properti Schema.org.
-
-Dari hasil eksplorasi, Universitas Sumatera Utara dapat direpresentasikan sebagai sebuah entitas yang memiliki berbagai atribut dan relasi dengan entitas lain seperti Medan, Sumatera Utara, dan Indonesia.
