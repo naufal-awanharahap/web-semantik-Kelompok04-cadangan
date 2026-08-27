@@ -56,9 +56,6 @@ Hubungan antarentitas:
 - Universitas Sumatera Utara → memiliki singkatan → USU
 - Universitas Sumatera Utara → merupakan → Universitas
 
-### Visualisasi Knowledge Graph
-
-![Knowledge Graph Universitas Sumatera Utara](knowledge-graph.png)
 
 ## 5. Eksplorasi Schema.org
 
